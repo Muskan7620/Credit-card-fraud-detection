@@ -1,4 +1,5 @@
 PROJECT 1:CREDIT CARD FRAUD DETECTION 
+
 This project identifies fraudulent credit card transactions using machine learning.
 Key Features
 - Data preprocessing and visualization of transaction behavior
